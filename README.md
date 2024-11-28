@@ -71,7 +71,7 @@ Collaborated on a bookstore project that managed inventory, sales, and user inte
 
 ## 📫 **Contact Me**  
 - **Email**: [thobanikhumalo210@gmail.com](mailto:thobanikhumalo210@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/thobanikhumalo](#) *(Replace with your LinkedIn profile)*  
+- **LinkedIn**:(https://www.linkedin.com/in/thobani-khumalo-1a7666226/) 
 - 📍 **Location**: Midrand Waterfall, Gauteng, South Africa  
 
 ---
