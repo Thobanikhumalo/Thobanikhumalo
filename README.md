@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Thobani Khumalo  
 
 🎓 **IT Enthusiast | Problem Solver | Innovator**  
-With a strong foundation in **Application Development** and **Business Principles**, I specialize in creating impactful solutions that merge technology and business to address real-world challenges.  
+Hi there! I’m Thobani Khumalo, a Bachelor of Computer and Information Science in Application Development graduate with a Higher Certificate in Business Principles and Practice. I specialize in creating innovative solutions that merge technology and business insights to address real-world challenges.
 
+Passionate about technology trends, problem-solving, and collaboration, I enjoy building scalable, user-friendly applications that empower people and drive operational improvements. I’m actively seeking IT business-related opportunities where I can leverage my technical expertise and business acumen.
 ---
 
 ## 🔍 **About Me**  
