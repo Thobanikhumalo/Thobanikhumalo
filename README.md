@@ -7,7 +7,7 @@ Passionate about technology trends, problem-solving, and collaboration, I enjoy 
 ---
 
 ## 🔍 **About Me**  
-- 🌟 Passionate about IT business opportunities such as Business Analysis, IT Project Management, and Business Intelligence.  
+- 🌟 Passionate about IT business opportunities such as Business Analysis, IT Project Management, Application Development and Business Intelligence.  
 - 💡 Experienced in **front-end and back-end development**, financial app creation, and real estate solutions.  
 - 🌍 Continuously learning and growing my expertise in scalable app development and innovative tech solutions.  
 
