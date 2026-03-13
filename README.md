@@ -11,7 +11,7 @@ I enjoy solving complex system problems, analysing data, and building technology
 ## 🔍 About Me  
 
 - 💼 IT Graduate at Nedbank – Payments & Enterprise Systems  
-- 🧾 Former SAP Intern at SABC – ERP Centre of Excellence  
+- 🧾 Former SAP Intern at SABC – Group Finance  
 - 📊 Interested in Enterprise banking systems and FinTech  
 - 💡 Strong background in Application Development, Databases, and Enterprise Systems  
 - 🚀 Passionate about continuous learning, problem solving, and technology innovation  
@@ -27,7 +27,7 @@ I enjoy solving complex system problems, analysing data, and building technology
 - Working within L2 support and operational stability processes  
 - Handling secure financial systems with strict compliance standards  
 
-### 📺 SABC – SAP Intern (ERP Centre of Excellence)
+### 📺 SABC – SAP Intern (Group Finance)
 - Participated in SAP ERP lifecycle projects  
 - Assisted with business process analysis and documentation  
 - Supported User Acceptance Testing (UAT)
