@@ -1,87 +1,94 @@
 # 👋 Hi, I’m Thobani Khumalo  
 
-🎓 **IT Enthusiast | Problem Solver | Innovator**  
-Hi there! I’m Thobani Khumalo, a Bachelor of Computer and Information Science in Application Development graduate with a Higher Certificate in Business Principles and Practice. I specialize in creating innovative solutions that merge technology and business insights to address real-world challenges.
-Passionate about technology trends, problem-solving, and collaboration, I enjoy building scalable, user-friendly applications that empower people and drive operational improvements. I’m actively seeking IT business-related opportunities where I can leverage my technical expertise and business acumen.
+🎓 IT Graduate | Payments Systems | SAP | Enterprise banking systems | Software Engineering  
+
+Hi there! I’m Thobani Khumalo, a Bachelor of Computer and Information Sciences (Application Development) graduate currently working as an IT Graduate in the Payments environment at Nedbank Group and a former SAP Intern at the South African Broadcasting Corporation (SABC). I have hands-on experience in enterprise banking systems, SAP ERP, data analysis, and software development, with a strong interest in Financial Technology.
+
+I enjoy solving complex system problems, analysing data, and building technology solutions that improve performance, reliability, and business processes.
 
 ---
 
-## 🔍 **About Me**  
-- 🌟 Passionate about IT business opportunities such as Business Analysis, IT Project Management, Application Development and Business Intelligence.  
-- 💡 Experienced in **front-end and back-end development**, financial app creation, and real estate solutions.  
-- 🌍 Continuously learning and growing my expertise in scalable app development and innovative tech solutions.  
+## 🔍 About Me  
+
+- 💼 IT Graduate at Nedbank – Payments & Enterprise Systems  
+- 🧾 Former SAP Intern at SABC – ERP Centre of Excellence  
+- 📊 Interested in Enterprise banking systems and FinTech  
+- 💡 Strong background in Application Development, Databases, and Enterprise Systems  
+- 🚀 Passionate about continuous learning, problem solving, and technology innovation  
 
 ---
 
-## 💼 **Projects**  
+## 💼 Experience  
 
-### 📱 **PennyWise: Personal Finance Management App**  
-A finance app published on the **Google Play Store** to help users track expenses, set financial goals, and analyze spending habits.  
-- 🌐 **Tech Stack**: ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-- 🛠️ **Features**:  
-  - Expense categorization and goal tracking  
-  - Multi-language support (English, Zulu, Afrikaans)  
-  - Secure API endpoints and biometric authentication  
-- 🌟 **Impact**: Enhanced financial literacy with intuitive analytics and customization options.  
+### 🏦 Nedbank Group – IT Graduate (Payments)
+- Supporting enterprise global payment platforms in a production environment  
+- Monitoring logs and incidents using Elastic (Kibana)  
+- Debugging system issues and assisting in incident resolution  
+- Working within L2 support and operational stability processes  
+- Handling secure financial systems with strict compliance standards  
 
----
-
-### 🏆 **Hackathon Winner: Facial Recognition Attendance System**  
-Developed a facial recognition-based system to streamline attendance in educational institutions.  
-- 📌 **Achievements**:  
-  - Recognized by **AWS** for innovation  
-  - Improved operational efficiency and communication by integrating real-time parent notifications  
-- 💻 **Key Contributions**:  
-  - Team leadership and solution design  
-  - Integration of cloud-based technologies for scalability  
+### 📺 SABC – SAP Intern (ERP Centre of Excellence)
+- Participated in SAP ERP lifecycle projects  
+- Assisted with business process analysis and documentation  
+- Supported User Acceptance Testing (UAT)
+- Worked on workflow mapping and system improvements  
+- Contributed to ERP configuration documentation and audit support  
 
 ---
 
-### 🏡 **Real Estate Mobile App**  
-A comprehensive app for property management, booking, and valuations.  
-- 🌐 **Tech Stack**: ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-- 🛠️ **Features**:  
-  - Role-based access for Admins, Agents, and Users  
-  - Secure chat functionality and property valuation requests  
-  - CI/CD pipelines with **GitHub Actions** for seamless deployment  
+## 🛠️ Technical Skills  
+
+### Programming
+- Python
+- Java
+- C#
+- Kotlin
+- HTML / CSS
+- SQL
+
+### Data & Systems
+- MySQL
+- Microsoft SQL Server
+- Firebase
+- MongoDB
+- Power BI
+- REST APIs
+- JSON
+
+### Enterprise & Tools
+- SAP ERP
+- SAP ABAP
+- Elastic (Kibana)
+- GitHub Actions
+- IBM Cloud
+- AWS
+
+### Areas of Interest
+- FinTech
+- Enterprise Systems
+- Business Analysis
+- Data Analytics
+- IT Audit
+- Controls Assurance
+- Risk & Compliance
 
 ---
 
-### 📚 **Bookstore Management System**  
-Collaborated on a bookstore project that managed inventory, sales, and user interactions.  
-- 🛠️ **Skills Applied**: Backend logic, UI design, and database management  
+## 📫 Contact Me  
+
+📧 thobanikhumalo210@gmail.com  
+🔗 https://www.linkedin.com/in/thobani-khumalo-1a7666226/  
+📍 Johannesburg / Midrand, South Africa  
 
 ---
 
-## 🛠️ **Key Skills**  
+## 🌟 Fun Facts  
 
-### 📊 **Business and Soft Skills**  
-- ✅ Project and Change Management  
-- ✅ Business and Data Analysis  
-- ✅ Risk Assessment and Problem Solving  
-- ✅ Collaboration and Communication  
-
-### 💻 **Technical Skills**  
-- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+- I enjoy debugging complex system issues
+- Interested in banking systems and financial technology
+- Passionate about automation and data-driven decisions
+- Always learning new technologies
 
 ---
 
-## 📫 **Contact Me**  
-- **Email**: [thobanikhumalo210@gmail.com](mailto:thobanikhumalo210@gmail.com)  
-- **LinkedIn**:(https://www.linkedin.com/in/thobani-khumalo-1a7666226/) 
-- 📍 **Location**: Midrand Waterfall, Gauteng, South Africa  
-
----
-
-## 🌟 **Fun Facts**  
-- I thrive on solving challenging problems and catching errors early (my eagle-eye skills 🦅).  
-- I enjoy researching technology trends and creating innovative tech solutions.  
-- I was praised by **AWS** for my Hackathon-winning project in the education sector.  
-
----
-
-✨ **Let’s collaborate and build something impactful together!**
+✨ Always open to collaboration, learning, and new opportunities
