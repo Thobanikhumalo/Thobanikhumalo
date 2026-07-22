@@ -59,31 +59,43 @@ I'm passionate about Financial Technology, enterprise systems, software engineer
 - Jira
 - Agile (Scrum)
 
-### Data & Systems
-- MySQL
-- Microsoft SQL Server
-- Firebase
-- MongoDB
-- Power BI
-- REST APIs
-- JSON
+### Programming Languages
+- Python
+- Java
+- C#
+- Kotlin
+- SQL
+- HTML
+- CSS
 
-### Enterprise & Tools
+### Enterprise Technologies
 - SAP ERP
 - SAP ABAP
 - Elastic (Kibana)
-- GitHub Actions
-- IBM Cloud
-- AWS
+- REST APIs
+- JSON
+- Process Automation
 
-### Areas of Interest
-- FinTech
-- Enterprise Systems
+### Databases & Cloud
+- Microsoft SQL Server
+- MySQL
+- MongoDB
+- Firebase
+- AWS
+- IBM Cloud
+- Power BI
+
+### 🌱 Areas of Interest
+- Financial Technology (FinTech)
+- Enterprise Banking Systems
 - Business Analysis
+- Business Process Engineering
+- Digital Transformation
+- Software Engineering
+- Enterprise Architecture
 - Data Analytics
-- IT Audit
-- Controls Assurance
-- Risk & Compliance
+- IT Risk & Controls
+- Process Optimisation
 
 ---
 
@@ -93,15 +105,16 @@ I'm passionate about Financial Technology, enterprise systems, software engineer
 🔗 https://www.linkedin.com/in/thobani-khumalo-1a7666226/  
 📍 Johannesburg / Midrand, South Africa  
 
----
-
-## 🌟 Fun Facts  
-
-- I enjoy debugging complex system issues
-- Interested in banking systems and financial technology
-- Passionate about automation and data-driven decisions
-- Always learning new technologies
 
 ---
 
-✨ Always open to collaboration, learning, and new opportunities
+## 🌟 Beyond Work
+
+- 💻 I enjoy building software and exploring new technologies.
+- 🏦 I'm fascinated by how enterprise banking and payment systems operate at scale.
+- 📊 I enjoy analysing business problems and designing technology-driven solutions.
+- 📚 I'm committed to continuous learning and professional growth in Business Analysis, Enterprise Systems, and Financial Technology.
+  
+---
+
+⭐ Thanks for visiting my GitHub! Feel free to explore my repositories, connect with me on LinkedIn, or reach out if you'd like to collaborate on software, enterprise systems, or FinTech projects.
