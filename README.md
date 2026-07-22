@@ -1,31 +1,39 @@
 # 👋 Hi, I’m Thobani Khumalo  
 
-🎓 IT Graduate | Payments Systems | SAP | Enterprise banking systems | Software Engineering  
+🎓 IT Graduate (Payments) | Business Analysis | Process Engineering | Enterprise Banking Systems | SAP ERP | FinTech  
 
-Hi there! I’m Thobani Khumalo, a Bachelor of Computer and Information Sciences (Application Development) graduate currently working as an IT Graduate in the Payments environment at Nedbank Group and a former SAP Intern at the South African Broadcasting Corporation (SABC). I have hands-on experience in enterprise banking systems, SAP ERP, data analysis, and software development, with a strong interest in Financial Technology.
+Welcome to my GitHub!
 
-I enjoy solving complex system problems, analysing data, and building technology solutions that improve performance, reliability, and business processes.
+I'm a Bachelor of Computer and Information Sciences (Application Development) graduate currently working as an IT Graduate within Nedbank Group Technology (Payments) and a former SAP Intern at the South African Broadcasting Corporation (SABC).
+
+My current role combines technology and business, where I contribute to the analysis, design, and delivery of enterprise payment solutions. I work across the software delivery lifecycle by analysing business processes, gathering requirements, collaborating with cross-functional teams, and helping transform business needs into technology solutions within a highly regulated banking environment.
+
+I'm passionate about Financial Technology, enterprise systems, software engineering, digital transformation, and solving complex business problems through technology.
 
 ---
 
 ## 🔍 About Me  
 
-- 💼 IT Graduate at Nedbank – Payments & Enterprise Systems  
-- 🧾 Former SAP Intern at SABC – Group Finance  
-- 📊 Interested in Enterprise banking systems and FinTech  
-- 💡 Strong background in Application Development, Databases, and Enterprise Systems  
-- 🚀 Passionate about continuous learning, problem solving, and technology innovation  
+- 💼 IT Graduate – Nedbank Group Technology (Payments)
+- 📈 Performing Business Analysis and Process Engineering responsibilities  
+- 🧾 Former SAP ERP Intern – SABC Finance Centre of Excellence  
+- 🏦 Passionate about Enterprise Banking Systems and Financial Technology  
+- 💡 Strong foundation in Application Development, Enterprise Systems, and Business Analysis
+- 🚀 Continuously learning and exploring new technologies, frameworks, and banking solutions
 
 ---
 
 ## 💼 Experience  
 
 ### 🏦 Nedbank Group – IT Graduate (Payments)
-- Supporting enterprise global payment platforms in a production environment  
-- Monitoring logs and incidents using Elastic (Kibana)  
-- Debugging system issues and assisting in incident resolution  
-- Working within L2 support and operational stability processes  
-- Handling secure financial systems with strict compliance standards  
+- Analyse business processes and document As-Is and To-Be workflows
+- Gather, analyse, and refine business requirements with stakeholders
+- Translate requirements into Agile User Stories and Acceptance Criteria
+- Participate in Jira backlog refinement and Agile delivery processes
+- Collaborate with Product Owners, Product Designers, Engineering Leads, and developers
+- Validate delivered functionality against documented business requirements
+- Support enterprise payment solutions within a highly regulated banking environment
+- Contribute to continuous improvement initiatives across enterprise payment platforms 
 
 ### 📺 SABC – SAP Intern (Group Finance)
 - Participated in SAP ERP lifecycle projects  
@@ -38,13 +46,18 @@ I enjoy solving complex system problems, analysing data, and building technology
 
 ## 🛠️ Technical Skills  
 
-### Programming
-- Python
-- Java
-- C#
-- Kotlin
-- HTML / CSS
-- SQL
+### Business Analysis & Agile
+- Business Analysis
+- Requirements Engineering
+- Requirements Elicitation
+- Business Process Analysis
+- As-Is & To-Be Process Mapping
+- Gap Analysis
+- User Story Development
+- Acceptance Criteria
+- Stakeholder Management
+- Jira
+- Agile (Scrum)
 
 ### Data & Systems
 - MySQL
